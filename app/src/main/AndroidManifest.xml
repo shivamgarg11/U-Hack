@@ -28,16 +28,15 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-
-
         </activity>
         <activity android:name=".NFC_StartActivity">
-             <intent-filter>
-             <action android:name="android.nfc.action.TAG_DISCOVERED" />
-             <category android:name="android.intent.category.DEFAULT" />
-             </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TAG_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
         </activity>
+        <activity android:name=".NFC_FinishActivity"></activity>
     </application>
 
 </manifest>

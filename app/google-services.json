@@ -8,6 +8,50 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:787418868362:android:a3f8cb0391dc1b56",
+        "android_client_info": {
+          "package_name": "com.shivam.uhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787418868362-0h9dj5s4vr3f4vh71dibn855uvjbgrfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.uhack",
+            "certificate_hash": "73b95d1dfae420e03dad6dff2d89ca279acc5995"
+          }
+        },
+        {
+          "client_id": "787418868362-rv5dq95u07mkargo4qt2mnr7cur5c106.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWwQxYsWfSX6HOS6D7gR80-afJPNJ51E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787418868362-rv5dq95u07mkargo4qt2mnr7cur5c106.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:787418868362:android:091ad90c586fc087",
         "android_client_info": {
           "package_name": "com.uhack.android.uhack"
