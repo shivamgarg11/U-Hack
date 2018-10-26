@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "787418868362",
+    "firebase_url": "https://uhack-b660a.firebaseio.com",
+    "project_id": "uhack-b660a",
+    "storage_bucket": "uhack-b660a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787418868362:android:091ad90c586fc087",
+        "android_client_info": {
+          "package_name": "com.uhack.android.uhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787418868362-7ovrh9rfkh2fu7m8h4jb6ujtph12neiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uhack.android.uhack",
+            "certificate_hash": "7fd220ec5eb9056f5274473d976b72abe6d1ba07"
+          }
+        },
+        {
+          "client_id": "787418868362-rv5dq95u07mkargo4qt2mnr7cur5c106.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWwQxYsWfSX6HOS6D7gR80-afJPNJ51E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787418868362-rv5dq95u07mkargo4qt2mnr7cur5c106.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
